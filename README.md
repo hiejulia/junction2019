@@ -1,6 +1,6 @@
 # junction2019
 Junction 2019
-Die hard in 48 hours of Junction. 
+Die hard in 48 hours of Junction - 48 hours of coding we implement this MVP product
 
 ##Digital buddy who psy you up.
 
@@ -26,5 +26,11 @@ Die hard in 48 hours of Junction.
 + Vue.js 
 + Speech recognition 
 + Google Cloud Vision API 
++ Google cloud platform - Docker 
 + Dialogflow API 
 + Basic machine learning for recommendations system (we don't have massive datasets -> we just use some basic recommendations API for emotions)
+
+## Security concerned(future take into account)
++ GDPR 
++ Save users emotions data on cloud database (?) 
++ Secure encryption user data 
